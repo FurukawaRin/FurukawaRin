@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FurukawaRin
-- 👀 I’m interested in GameDev(Unity) and .Net dev.
-- 🌱 I’m currently learning C# & JS
+- 👀 I’m interested in GameDev(Unity)
+- 🌱 I’m currently learning C#
 
 <!---
 FurukawaRin/FurukawaRin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
